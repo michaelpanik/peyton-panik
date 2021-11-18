@@ -13,7 +13,7 @@ const Card = props => {
           <Img fluid={thumbnail.localFile.childImageSharp.fluid} alt={name} />
         </div>
         <div className="p-4 sm:p-5">
-          <h1 className="sm:text-lg text-gray-900 font-semibold">{name}</h1>
+          <h1 className="sm:text-lg text-green-600 font-semibold">{name}</h1>
           <p className="text-sm sm:text-base text-gray-700">{summary}</p>
         </div>
       </Link>

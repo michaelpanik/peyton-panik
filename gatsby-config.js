@@ -15,14 +15,12 @@ module.exports = {
       { name: "About", to: "/about" },
     ],
     links: {
-      facebook: "https://www.facebook.com/",
-      instagram: "https://www.instagram.com/",
-      pinterest: "https://pinterest.com/",
-      twitter: "https://twitter.com/",
+      linkedin: "https://www.linkedin.com/in/peytonpanik",
+      instagram: "https://www.instagram.com/peynomind",
     },
     locale: "en",
     title: `Peyton Panik`,
-    description: `Photography portfolio of Peyton Panik`,
+    description: `I'm a content marketing professional from Birmingham, Alabama.`,
     author: `@peytonpanik`,
   },
   plugins: [

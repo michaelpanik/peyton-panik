@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "author": "Wojciech Kocjan <wojciech@kocjan.net>",
   "dependencies": {
+    "@fontsource/work-sans": "^4.5.2",
+    "@fontsource/yeseva-one": "^4.5.0",
     "autoprefixer": "^9.7.6",
     "classnames": "^2.2.6",
     "dotenv": "^8.2.0",
@@ -25,8 +27,7 @@
     "react-icons": "^3.10.0",
     "react-id-swiper": "^3.0.0",
     "swiper": "^5.3.8",
-    "tailwindcss": "^1.4.4",
-    "typeface-inter": "^3.12.0"
+    "tailwindcss": "^1.4.4"
   },
   "devDependencies": {
     "chalk": "^3.0.0",
