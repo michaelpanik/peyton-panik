@@ -4,7 +4,7 @@ const Hero = () => (
   <div className="container py-12 lg:pb-16">
     <h2 className="text-5xl sm:text-6xl font-extrabold leading-tight tracking-tight text-green-900 font-serif">
       Hello, I'm Peyton{" "}
-      <span role="img" aria-label="waving hand">
+      <span role="img" aria-label="waving hand" className="wave">
         👋
       </span>
       <br />
@@ -16,6 +16,7 @@ const Hero = () => (
 )
 
 export default Hero
+
 
 
 
